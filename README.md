@@ -1,7 +1,5 @@
 # PhotoTapps
 
-### My first project when I worked with TableViewController.
-
 This application is a project from the Swiftbook.ru course in which interaction with such an element as UITableViewController is implemented, as well as work with additional functionality for transferring files using the share button.
 
 Main screen
