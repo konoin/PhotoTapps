@@ -4,12 +4,12 @@ This application is a project from the Swiftbook.ru course in which interaction 
 
 Main screen
 
-![MainScreen](https://github.com/konoin/PhotoTapps/blob/main/IMG_0190.PNG)
+<img src="https://github.com/konoin/PhotoTapps/blob/main/IMG_0190.PNG" width="200">
 
 Screen when we are tapped for image
 
-![TappedScreen](https://github.com/konoin/PhotoTapps/blob/main/IMG_0191.PNG)
+<img src="https://github.com/konoin/PhotoTapps/blob/main/IMG_0191.PNG" width="200">
 
 ShareScreen
 
-![ShareScreen](https://github.com/konoin/PhotoTapps/blob/main/IMG_0192.PNG)
+<img src="https://github.com/konoin/PhotoTapps/blob/main/IMG_0192.PNG" width="200">
